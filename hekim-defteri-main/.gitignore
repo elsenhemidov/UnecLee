@@ -1,0 +1,9 @@
+﻿node_modules/
+dist/
+*.db
+.env
+desktop/dist/
+backend/hekim.json
+*.zip
+admin-panel/
+LAYIHE_STRUKTURU.md

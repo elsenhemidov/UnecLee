@@ -1,0 +1,18 @@
+{
+  "name": "hekim-borc-defteri-backend",
+  "version": "1.0.0",
+  "description": "Həkim borc və nisyə dəftəri - Backend API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "lowdb": "^7.0.1",
+    "node-cron": "^3.0.3",
+    "uuid": "^9.0.1"
+  }
+}
